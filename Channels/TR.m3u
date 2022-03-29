@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://github.com/enes-karaca/IPTV/blob/main/Channel-Images/TR/1-TRT-1.png?raw=true" group-title="Eğlence",TRT 1
-http://84.22.33.214/TRT1/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://github.com/enes-karaca/IPTV/blob/main/Channel-Images/TR/2-TRT-Haber.png?raw=true" group-title="Haber",TRT Haber
-http://84.22.33.214/TRTHaber/index.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.canli.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
