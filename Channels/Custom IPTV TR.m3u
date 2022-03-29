@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="" group-title="Eğlence",TRT 1
+http://84.22.33.214/TRT1/index.m3u8
+
+#EXTINF:1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title="Haber",TRT Haber
+http://84.22.33.214/TRTHaber/index.m3u8
+
+#EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.canli.trt.com.tr/master.m3u8
