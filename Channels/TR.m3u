@@ -11,3 +11,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:1 tvg-id="ATV.tr" tvg-name="ATV" tvg-language="Turkish" tvg-logo="https://github.com/enes-karaca/IPTV/blob/main/Channel-Images/TR/4-ATV.png?raw=true" group-title="Eğlence",ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+
+#EXTINF:1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://github.com/enes-karaca/IPTV/blob/main/Channel-Images/TR/5-Show-TV.png?raw=true" group-title="Eğlence",Show TV
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live_1080p2000000kbps/index.m3u8
