@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/2560px-TRT_1_logo_%282021-%29.svg.png" group-title="Ulusal", TRT 1
+https://trt1.persona.video/master.m3u8?hls=1
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="Ulusal", TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Trakya Türk TV" tvg-id="" tvg-language="Turkish" tvg-logo="https://www.trakyaturktv.com/site/sized/100306/2022/01/4b8f46f379904b6c12971e0057072a05-960x9000.webp" group-title="Ulusal", Trakya Türk TV
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 7" tvg-id="Kanal.7.tr" tvg-language="Turkish" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="Ulusal", Kanal 7
+https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-id="" tvg-language="Turkish" tvg-logo="https://images.ctfassets.net/nn6vbw09vzdt/1VXfBJvqdv7ALvGqFGphyS/8626eea0e93b169b7c468f003cede94b/avrupa.png" group-title="Avrupa", Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-name="FOX TV" tvg-id="FOX.tr" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="Ulusal", FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-name="DW Deutsch" tvg-id="" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Deutsch", DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-name="DW Deutsch+" tvg-id="" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Deutsch", DW Deutsch+
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:-1 tvg-name="DW English" tvg-id="" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Deutsch", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="Das.Erste.HD.de" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png" group-title="Deutsch", Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="BBC America" tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="BBC", BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS News New York" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/2560px-CBS_logo_%282020%29.svg.png" group-title="CBS", CBS News New York
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-name="Power TV" tvg-id="" tvg-language="Turkish" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png?v=1" group-title="Müzik", Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Dance TV" tvg-id="" tvg-language="Turkish" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png?v=6" group-title="Müzik", Power Dance TV
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
